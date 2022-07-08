@@ -3,7 +3,7 @@
     <title>Goodlet</title>
     <link href="https://mteuz.github.io/Goodlet/feed.xml" rel="self" />
     <link href="https://mteuz.github.io/Goodlet" />
-    <updated>2022-07-08T16:06:13+02:00</updated>
+    <updated>2022-07-08T16:39:26+02:00</updated>
     <author>
         <name>Teo</name>
     </author>
@@ -18,19 +18,17 @@
         <id>https://mteuz.github.io/Goodlet/ti/</id>
             <category term="post"/>
 
-        <updated>2022-07-08T16:05:52+02:00</updated>
+        <updated>2022-07-08T16:39:26+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mteuz.github.io/Goodlet/media/posts/2/Digitalizzazione-di-prova-2.jpg" alt="Backrs" />
+                        <img src="https://mteuz.github.io/Goodlet/media/posts/2/Digitalizzazione-di-prova-2.webp" alt="Backrs" />
                     Caption Testo 2
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mteuz.github.io/Goodlet/media/posts/2/Digitalizzazione-di-prova-2.jpg" alt="Backrs" />
-                <figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://mteuz.github.io/Goodlet/media/posts/2/Digitalizzazione-di-prova.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-xs.jpg 384w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-sm.jpg 600w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-md.jpg 768w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-lg.jpg 1200w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-xl.jpg 1600w"  alt="Backer" width="1024" height="768"></figure>
-<figcaption >Caption</figcaption>
-</figure>
+                    <img src="https://mteuz.github.io/Goodlet/media/posts/2/Digitalizzazione-di-prova-2.webp" alt="Backrs" />
+                <figure class="post__image"><img loading="lazy"  src="https://mteuz.github.io/Goodlet/media/posts/2/Digitalizzazione-di-prova.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-xs.webp 384w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-sm.webp 600w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-md.webp 768w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-lg.webp 1200w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-xl.webp 1600w"  alt="asersaad" width="1024" height="768"><figcaption>Caption</figcaption></figure>
 <p> </p>
 <p>Testo 2</p>
             ]]>
@@ -45,19 +43,19 @@
         <id>https://mteuz.github.io/Goodlet/titolo/</id>
             <category term="tost"/>
 
-        <updated>2022-07-08T16:06:13+02:00</updated>
+        <updated>2022-07-08T16:39:19+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mteuz.github.io/Goodlet/media/posts/1/Digitalizzazione-di-prova.jpg" alt="Background" />
+                        <img src="https://mteuz.github.io/Goodlet/media/posts/1/Digitalizzazione-di-prova-2.webp" alt="Background" />
                     Testo
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mteuz.github.io/Goodlet/media/posts/1/Digitalizzazione-di-prova.jpg" alt="Background" />
+                    <img src="https://mteuz.github.io/Goodlet/media/posts/1/Digitalizzazione-di-prova-2.webp" alt="Background" />
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://mteuz.github.io/Goodlet/media/posts/1/Digitalizzazione-di-prova-3.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-xs.jpg 384w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-sm.jpg 600w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-md.jpg 768w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-lg.jpg 1200w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-xl.jpg 1600w"  height="768" width="1024" alt="" />
+      <img loading="lazy" src="https://mteuz.github.io/Goodlet/media/posts/1/Digitalizzazione-di-prova.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-xs.webp 384w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-sm.webp 600w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-md.webp 768w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-lg.webp 1200w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-xl.webp 1600w"  height="768" width="1024" alt="" />
       
     </figure>
 
