@@ -10,18 +10,36 @@
     },
     "items": [
         {
-            "id": "https://mteuz.github.io/Goodlet/titolo.html",
-            "url": "https://mteuz.github.io/Goodlet/titolo.html",
-            "title": "Titolo",
-            "summary": "Testo",
-            "content_html": "\n  <p>\n    Testo\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" data-is-external-image=\"true\"  height=\"\" width=\"\" alt=\"\" />\n      \n    </figure>",
+            "id": "https://mteuz.github.io/Goodlet/ti/",
+            "url": "https://mteuz.github.io/Goodlet/ti/",
+            "title": "Titolo 2",
+            "summary": "Caption Testo 2",
+            "content_html": "<figure ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://mteuz.github.io/Goodlet/media/posts/2/Digitalizzazione-di-prova.jpg\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-xs.jpg 384w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-sm.jpg 600w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-md.jpg 768w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-lg.jpg 1200w ,https://mteuz.github.io/Goodlet/media/posts/2/responsive/Digitalizzazione-di-prova-xl.jpg 1600w\"  alt=\"Backer\" width=\"1024\" height=\"768\"></figure>\n<figcaption >Caption</figcaption>\n</figure>\n<p> </p>\n<p>Testo 2</p>",
+            "image": "https://mteuz.github.io/Goodlet/media/posts/2/Digitalizzazione-di-prova-2.jpg",
             "author": {
                 "name": "Teo"
             },
             "tags": [
+                   "post"
+            ],
+            "date_published": "2022-07-08T15:55:11+02:00",
+            "date_modified": "2022-07-08T16:05:52+02:00"
+        },
+        {
+            "id": "https://mteuz.github.io/Goodlet/titolo/",
+            "url": "https://mteuz.github.io/Goodlet/titolo/",
+            "title": "Titolo",
+            "summary": "Testo",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://mteuz.github.io/Goodlet/media/posts/1/Digitalizzazione-di-prova-3.jpg\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-xs.jpg 384w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-sm.jpg 600w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-md.jpg 768w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-lg.jpg 1200w ,https://mteuz.github.io/Goodlet/media/posts/1/responsive/Digitalizzazione-di-prova-3-xl.jpg 1600w\"  height=\"768\" width=\"1024\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    Testo\n  </p>",
+            "image": "https://mteuz.github.io/Goodlet/media/posts/1/Digitalizzazione-di-prova.jpg",
+            "author": {
+                "name": "Teo"
+            },
+            "tags": [
+                   "tost"
             ],
             "date_published": "2022-07-08T15:37:40+02:00",
-            "date_modified": "2022-07-08T15:37:40+02:00"
+            "date_modified": "2022-07-08T16:06:13+02:00"
         }
     ]
 }
