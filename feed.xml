@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Goodlet</title>
+    <link href="https://mteuz.github.io/Goodlet/feed.xml" rel="self" />
+    <link href="https://mteuz.github.io/Goodlet" />
+    <updated>2022-07-08T15:37:40+02:00</updated>
+    <author>
+        <name>Teo</name>
+    </author>
+    <id>https://mteuz.github.io/Goodlet</id>
+
+    <entry>
+        <title>Titolo</title>
+        <author>
+            <name>Teo</name>
+        </author>
+        <link href="https://mteuz.github.io/Goodlet/titolo.html"/>
+        <id>https://mteuz.github.io/Goodlet/titolo.html</id>
+
+        <updated>2022-07-08T15:37:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Testo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Testo
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="" data-is-external-image="true"  height="" width="" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

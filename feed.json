@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Goodlet",
+    "description": "",
+    "home_page_url": "https://mteuz.github.io/Goodlet",
+    "feed_url": "https://mteuz.github.io/Goodlet/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Teo"
+    },
+    "items": [
+        {
+            "id": "https://mteuz.github.io/Goodlet/titolo.html",
+            "url": "https://mteuz.github.io/Goodlet/titolo.html",
+            "title": "Titolo",
+            "summary": "Testo",
+            "content_html": "\n  <p>\n    Testo\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" data-is-external-image=\"true\"  height=\"\" width=\"\" alt=\"\" />\n      \n    </figure>",
+            "author": {
+                "name": "Teo"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-08T15:37:40+02:00",
+            "date_modified": "2022-07-08T15:37:40+02:00"
+        }
+    ]
+}

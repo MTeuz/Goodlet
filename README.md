@@ -1,2 +1,0 @@
-## Goodlet
-Blog repo

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mteuz.github.io/Goodlet/sitemap.xml
